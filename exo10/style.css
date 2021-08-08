@@ -1,0 +1,13 @@
+h1 {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+#texte_1 {
+  border: 2px solid red;
+}
+#texte_2 {
+  border: 2px solid green;
+}
+#texte_3 {
+  border: 2px solid blue;
+}
